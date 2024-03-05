@@ -3,10 +3,10 @@
 > PostGIS
 > GDAL 
 
-- [] Django proejct Setting
-- [] test Django run server
-- [] install postgreSQL
-- [] create sameple table
-- [] connect db
-- [] install PostGIS Plugin
-- [] install GDAL package 	
+- [x] Django proejct Setting
+- [x] test Django run server
+- [ ] install postgreSQL
+- [ ] create sameple table
+- [ ] connect db
+- [ ] install PostGIS Plugin
+- [ ] install GDAL package 	
